@@ -89,3 +89,7 @@ Key discussions on embedded systems covered sensor interfacing techniques, commu
 
 Each discussion on Day 1 involved hands-on examples and coding exercises to reinforce the concepts. The sessions provided a comprehensive foundation in IoT architecture, sensor interfacing, and embedded system programming.
 
+---
+# References
+1. https://lastminuteengineers.com/dht11-dht22-arduino-tutorial/
+2. https://lastminuteengineers.com/soil-npk-sensor-arduino-tutorial/ 
