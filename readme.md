@@ -89,6 +89,3 @@ Key discussions on embedded systems covered sensor interfacing techniques, commu
 
 Each discussion on Day 1 involved hands-on examples and coding exercises to reinforce the concepts. The sessions provided a comprehensive foundation in IoT architecture, sensor interfacing, and embedded system programming.
 
----
-
-This README serves as an overall summary for Day 1 of the IoT and Embedded Systems program. Day 2 and Day 3 discussions will be added as they are completed, expanding on advanced IoT topics and applications.
