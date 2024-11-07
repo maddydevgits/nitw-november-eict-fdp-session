@@ -95,4 +95,5 @@ Each discussion on Day 1 involved hands-on examples and coding exercises to rein
 2. https://lastminuteengineers.com/soil-npk-sensor-arduino-tutorial/
 3. https://www.raspberrypi.com/documentation/computers/getting-started.html
 4. https://www.arduino.cc
-5. https://www.thingspeak.com 
+5. https://www.thingspeak.com
+6. https://wokwi.com/ 
