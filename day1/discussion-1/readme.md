@@ -14,6 +14,7 @@ This document covers the key concepts and insights from the first discussion in 
 7. [Technologies Used](#technologies-used)
 8. [Practical Applications](#practical-applications)
 9. [Benefits of IoT and Embedded Systems](#benefits-of-iot-and-embedded-systems)
+10. [Session Diagram](#session-diagram)
 
 ---
 
