@@ -10,7 +10,7 @@ This document provides an overview of the code discussed in the eleventh session
 3. [Pin Configuration](#pin-configuration)
 4. [Sensor Requests and Responses](#sensor-requests-and-responses)
 5. [Code Explanation](#code-explanation)
-6. [Session Diagram](#session-diagram)
+
 
 ---
 
